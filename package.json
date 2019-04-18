@@ -17,7 +17,7 @@
         "chalk": "^2.3.0",
         "express":"*",
         "body-parser":"*",
-        "bcrypt": "^0.8.5"
+        "bcrypt": "^0.8.5",
         "debug": "^4.0.0",
         "inquirer": "^6.0.0",
         "lodash": "^4.17.5",
