@@ -15,9 +15,6 @@
         "@ionic/utils-subprocess": "0.1.0",
         "@ionic/utils-terminal": "0.0.1",
         "chalk": "^2.3.0",
-        "express":"*",
-        "body-parser":"*",
-        "bcrypt": "^0.8.5",
         "debug": "^4.0.0",
         "inquirer": "^6.0.0",
         "lodash": "^4.17.5",
@@ -33,6 +30,9 @@
         "write-file-atomic": "^2.3.0"
       },
       "dependencies": {
+        "express":"*",
+        "body-parser":"*",
+        "bcrypt": "^0.8.5",
         "debug": {
           "version": "4.1.1",
           "resolved": "https://registry.npmjs.org/debug/-/debug-4.1.1.tgz",
